@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "sabhimotherfucker.aternos.me:57521",
+    "ip": "sabhimotherfucker.aternos.me",
     "port": 57521,
     "version": "1.20.1",
     "try-creative": false
